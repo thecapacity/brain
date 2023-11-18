@@ -1,2 +1,10 @@
 Flask
 behave
+python-dotenv
+flask_sqlalchemy
+sqlalchemy
+
+# wsgiref
+# parse
+# Werkzeug
+# Jinja2
